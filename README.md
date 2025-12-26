@@ -3,9 +3,6 @@
 By ANAM ZAHID
 
 
-#### Video overview: https://youtu.be/mohygkWCBTg
-
-
 ## Scope
 
 This Library Management System (LMS) database schema is designed to efficiently manage various aspects of a library, including user data, book information, authors, publishers, transactions (borrows and returns), and the availability status of books.As such, included in the database's scope is:
